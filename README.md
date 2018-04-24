@@ -1,1 +1,1 @@
-# MiniProjectCNU
+My Mini Project in CNU
